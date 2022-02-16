@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Udhav (@UhvKohl). 
-- 👀 I am aspiring physicist. Though I graduated from high school in May 2021, I am going to begin university this year in September.
+- 👀 I am an aspiring physicist. Graduated from high school in May 2021, and I am going to begin university this year in September.
 - 🌱 I’m currently using "Automate the Boring Stuff with Python" to learn the basics of Python. 
-- 💞️ Other than that, I have began using WowChemy to blog other passions of my life such as powerlifting and playing the guitar.
+- 💞️ I have recently started using WowChemy to blog my passions such as powerlifting and playing the guitar.
 - 📫 If you'd like to coverse with me, you can reach out to me through my email (udhav.kohli@outlook.com)!
 
 <!---
